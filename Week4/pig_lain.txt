@@ -1,0 +1,13 @@
+pig -x mapreduce or pig --> used to execute files using MapReduce
+pig -x local --> used to execute files in local mode
+
+Steps:
+Write all pig statements in pigscript.pig file.
+Execute pig by choosing Mapreduce or local
+
+Execution in Grunt Mode
+exec /pigscript.pig
+
+Executing in HDFS
+pig -x mapreduce path_in_hdfs/pigscript.pig
+
