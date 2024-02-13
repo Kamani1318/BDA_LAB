@@ -1,0 +1,10 @@
+1001,John Doe,20,M
+1002,Jane Smith,22,F
+1003,Michael Brown,21,M
+1004,Emily Davis,20,F
+1005,David Wilson,23,M
+1006,Anna Johnson,21,F
+1007,Christopher Garcia,22,M
+1008,Samantha Miller,20,F
+1009,James Taylor,21,M
+1010,Madison Anderson,22,F
